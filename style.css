@@ -1,0 +1,9 @@
+.media {}
+
+
+@media only screen and (max-width:576) {
+    .media {
+        flex-direction: column;
+    }
+
+}
